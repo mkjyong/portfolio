@@ -150,7 +150,3 @@ DeFi, NFT 마켓플레이스, 트랜잭션 도구 등 다양한 블록체인 프
 - **언어**: Go, Solidity
 - **블록체인**: EVM chain
 - AI : 개발 및 업무 전 과정에서의 AI 통합 및 AI 툴 제작 능력
-
----
-
-*Feel free to customize this README file as needed. Update links, add images, badges, or additional details to further showcase your expertise and projects.*
